@@ -1,0 +1,1695 @@
+{
+  "ShortURL":"Club_Babylon_Ahmedabad",
+  "title":"Club Babylon, Ahmedabad",
+  "CompanyName":"Club Babylon",
+  "address":"Babylon club road, SP road, Nr. Science city circle, Bahadaj, Ahmedabad - 380060",
+  "contact":"+91-9904401096    kunal@gmail.com",
+  "shortDescription":"RECLAIM LEISURE, RECLAIM LIFE. EVERYTHING ELSE CAN WAIT.",
+  "longDescription":"Towering tall above the ground, and nestling well below it too; Club Babylon flaunts an architecture that you have hardly seen before.",
+  "footerDescription":"Gorgeously spread over 47,000 square yards, Club Babylon has a predominant sense of vastness and opulence. Neighbour to an enchanting lake garden - a magnificent 80,000 square yards of flora and fauna, nature is in full bloom in and around Club Babylon.",
+  "description":" ",
+  "scenes": [
+    {
+      "panoImg": "Scene0",
+      "init_lat": -3.1674702365181036,
+      "init_lon": 108.03033121000868,
+      "init_fov": 70,
+      "lastModified": 1490684508861,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 173.6008060289604,
+          "nextLat": -0.49201485062540407,
+          "towards": 8,
+          "nextFov": 70,
+          "lat": -18.927218638650714,
+          "nextLon": -133.7729607966786
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -151.78963497584184,
+          "nextLat": -0.11600731447015189,
+          "towards": 5,
+          "nextFov": 65.25000000000017,
+          "lat": -5.512317388916742,
+          "nextLon": -159.85589881673596
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 113.42940372184992,
+          "nextLat": -0.3361742424242422,
+          "towards": 7,
+          "nextFov": 79.99999999999996,
+          "lat": -0.2698258435836465,
+          "nextLon": 2.208742940807383
+        }
+      ],
+      "lines": [],
+      "title": "Restaurant Day View"
+    },
+    {
+      "panoImg": "Scene1",
+      "init_lat": 0.7817235048266347,
+      "init_lon": 29.751630266543373,
+      "init_fov": 59.55000000000006,
+      "lastModified": 1490684514396,
+      "icons": [
+        {
+          "image": "gateway_left.png",
+          "transitionMethod": "zoomAndChange",
+          "lon": -174.7766522695082,
+          "nextLat": -8.338856276920072,
+          "towards": 6,
+          "nextFov": 90,
+          "lat": 1.9750957056772904,
+          "nextLon": 171.751385519294
+        }
+      ],
+      "lines": [],
+      "title": "Gym"
+    },
+    {
+      "panoImg": "Scene2",
+      "init_lat": -4.867899660327344,
+      "init_lon": -33.87715146830408,
+      "init_fov": 82.24999999999999,
+      "lastModified": 1490685165470,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -143.84774026466835,
+          "nextLat": -0.11600731447015189,
+          "towards": 5,
+          "nextFov": 65.25000000000017,
+          "lat": -6.888360229103029,
+          "nextLon": -159.85589881673596
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -13.028631284017365,
+          "nextLat": -1.2746606691919196,
+          "towards": 4,
+          "nextFov": 70,
+          "lat": -8.637904808383212,
+          "nextLon": 59.784312538080826
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "tooltip": "Snooker Room",
+          "lon": 42.53487047855208,
+          "nextLat": -10.142843023017047,
+          "towards": 3,
+          "nextFov": 75.84999999999998,
+          "lat": -5.810030349582249,
+          "nextLon": 75.47710560442192
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -88.52548502308174,
+          "nextLat": -0.3361742424242422,
+          "towards": 7,
+          "nextFov": 79.99999999999996,
+          "lat": 1.769710710142192,
+          "nextLon": 2.208742940807383
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "tooltip": "Restaurant",
+          "lon": -88.89122054849238,
+          "nextLat": -3.1674702365181036,
+          "towards": 0,
+          "nextFov": 70,
+          "lat": -3.8285087869256387,
+          "nextLon": 108.03033121000868
+        }
+      ],
+      "lines": [],
+      "title": "Reception"
+    },
+    {
+      "panoImg": "Scene3",
+      "init_lat": -11.722073917233493,
+      "init_lon": -16.681665637694778,
+      "init_fov": 90,
+      "lastModified": 1490684525286,
+      "icons": [
+        {
+          "image": "gateway_left.png",
+          "transitionMethod": "zoomAndChange",
+          "lon": 38.6443992607645,
+          "nextLat": -6.493909559710135,
+          "towards": 2,
+          "nextFov": 56.349999999999994,
+          "lat": -3.4449028943624427,
+          "nextLon": 30.573456590629235
+        }
+      ],
+      "lines": [],
+      "title": "Pool Table Room"
+    },
+    {
+      "panoImg": "Scene4",
+      "init_lat": -11.457032154276382,
+      "init_lon": 65.19951924722409,
+      "init_fov": 70.39999999999998,
+      "lastModified": 1490696298636,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -46.520965123500574,
+          "nextLat": -6.493909559710135,
+          "towards": 2,
+          "nextFov": 56.349999999999994,
+          "lat": -3.961950028226653,
+          "nextLon": 30.573456590629235
+        }
+      ],
+      "lines": [],
+      "title": "Table Tennis Room "
+    },
+    {
+      "panoImg": "Scene5",
+      "init_lat": -0.11600731447015189,
+      "init_lon": -159.85589881673596,
+      "init_fov": 65.25000000000017,
+      "lastModified": 1490684534220,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 45.68625458685569,
+          "nextLat": -8.338856276920072,
+          "towards": 6,
+          "nextFov": 90,
+          "lat": 2.497802950896812,
+          "nextLon": 171.751385519294
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 118.0872251937989,
+          "nextLat": -6.493909559710135,
+          "towards": 2,
+          "nextFov": 56.349999999999994,
+          "lat": 0.9361827849690485,
+          "nextLon": 30.573456590629235
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "tooltip": "Restaurant",
+          "lon": 76.2309505918634,
+          "nextLat": -3.1674702365181036,
+          "towards": 0,
+          "nextFov": 70,
+          "lat": 0.08519369776193741,
+          "nextLon": 108.03033121000868
+        }
+      ],
+      "lines": [],
+      "title": "Lawn"
+    },
+    {
+      "panoImg": "Scene6",
+      "init_lat": -7.618347550968909,
+      "init_lon": 165.7010200960234,
+      "init_fov": 90,
+      "lastModified": 1490696142401,
+      "icons": [
+        {
+          "image": "gateway_right.png",
+          "transitionMethod": "zoomAndChange",
+          "lon": -60.49769796022467,
+          "nextLat": 0.7817235048266351,
+          "towards": 1,
+          "nextFov": 59.55000000000006,
+          "lat": 5.24663637275431,
+          "nextLon": 29.751630266543373
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -84.5821357354123,
+          "nextLat": -1.5222056084536408,
+          "towards": 9,
+          "nextFov": 90,
+          "lat": -2.6131761470333714,
+          "nextLon": 37.145379524523605
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -68.58301179848323,
+          "nextLat": -0.11600731447015278,
+          "towards": 5,
+          "nextFov": 65.25000000000017,
+          "lat": 0.8283743009573357,
+          "nextLon": -159.85589881673593
+        }
+      ],
+      "lines": [],
+      "title": "Swimming Pool"
+    },
+    {
+      "panoImg": "Scene7",
+      "init_lat": -0.3361742424242422,
+      "init_lon": 2.208742940807383,
+      "init_fov": 79.99999999999996,
+      "lastModified": 1490696198729,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -19.704229255224575,
+          "nextLat": -3.1674702365181036,
+          "towards": 0,
+          "nextFov": 70,
+          "lat": -1.8003563940030745,
+          "nextLon": 108.03033121000868
+        },
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 15.541752095854932,
+          "nextLat": -6.493909559710135,
+          "towards": 2,
+          "nextFov": 56.349999999999994,
+          "lat": -1.7735907831591078,
+          "nextLon": 30.573456590629235
+        }
+      ],
+      "lines": [],
+      "title": "Banquet Hall"
+    },
+    {
+      "panoImg": "Scene8",
+      "init_lat": -0.4920148506254039,
+      "init_lon": -133.77296079667863,
+      "init_fov": 70,
+      "lastModified": 1490684543426,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": 138.00907608093888,
+          "nextLat": -3.1674702365181036,
+          "towards": 0,
+          "nextFov": 70,
+          "lat": -18.0023142648201,
+          "nextLon": 108.03033121000868
+        }
+      ],
+      "lines": [],
+      "title": "Restaurant Night View"
+    },
+    {
+      "panoImg": "Scene9",
+      "init_lat": -1.5222056084536408,
+      "init_lon": 37.145379524523605,
+      "init_fov": 90,
+      "lastModified": 1490684546447,
+      "icons": [
+        {
+          "image": "gateway_left.png",
+          "transitionMethod": "zoomAndChange",
+          "lon": -40.70118338557693,
+          "nextLat": -6.247220436471429,
+          "towards": 10,
+          "nextFov": 88.55,
+          "lat": -9.118356590943364,
+          "nextLon": 125.00021022357191
+        },
+        {
+          "image": "gateway_right.png",
+          "transitionMethod": "zoomAndChange",
+          "lon": -14.219790979576018,
+          "nextLat": -8.338856276920072,
+          "towards": 6,
+          "nextFov": 90,
+          "lat": 2.8572122113726692,
+          "nextLon": 171.751385519294
+        }
+      ],
+      "lines": [],
+      "title": "Washroom"
+    },
+    {
+      "panoImg": "Scene10",
+      "init_lat": -6.247220436471429,
+      "init_lon": 122.333153122547,
+      "init_fov": 88.55,
+      "lastModified": 1490684550501,
+      "icons": [
+        {
+          "transitionMethod": "zoomAndChange",
+          "lon": -0.8936615769441403,
+          "nextLat": -1.5222056084536408,
+          "towards": 9,
+          "nextFov": 90,
+          "lat": -9.318583019381336,
+          "nextLon": 37.145379524523605
+        }
+      ],
+      "lines": [],
+      "title": "Steam Room"
+    }
+  ],
+  "photos": [
+    {
+      "title": "Babylon Brochure: Page-1",
+      "description": "Click to see page-1",
+      "image": "1_Babylon_Brochure1.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-2",
+      "description": "Click to see page-2",
+      "image": "1_Babylon_Brochure2.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-3",
+      "description": "Click to see page-3",
+      "image": "1_Babylon_Brochure3.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-4",
+      "description": "Click to see page-4",
+      "image": "1_Babylon_Brochure4.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-5",
+      "description": "Click to see page-5",
+      "image": "1_Babylon_Brochure5.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-6",
+      "description": "Click to see page-6",
+      "image": "1_Babylon_Brochure6.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-7",
+      "description": "Click to see page-7",
+      "image": "1_Babylon_Brochure7.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-8",
+      "description": "Click to see page-8",
+      "image": "1_Babylon_Brochure8.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-9",
+      "description": "Click to see page-9",
+      "image": "1_Babylon_Brochure9.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-10",
+      "description": "Click to see page-10",
+      "image": "1_Babylon_Brochure10.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-11",
+      "description": "Click to see page-11",
+      "image": "1_Babylon_Brochure11.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-12",
+      "description": "Click to see page-12",
+      "image": "1_Babylon_Brochure12.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-13",
+      "description": "Click to see page-13",
+      "image": "1_Babylon_Brochure13.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-14",
+      "description": "Click to see page-14",
+      "image": "1_Babylon_Brochure14.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-15",
+      "description": "Click to see page-15",
+      "image": "1_Babylon_Brochure15.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-16",
+      "description": "Click to see page-16",
+      "image": "1_Babylon_Brochure16.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-17",
+      "description": "Click to see page-17",
+      "image": "1_Babylon_Brochure17.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-18",
+      "description": "Click to see page-18",
+      "image": "1_Babylon_Brochure18.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-19",
+      "description": "Click to see page-19",
+      "image": "1_Babylon_Brochure19.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-20",
+      "description": "Click to see page-20",
+      "image": "1_Babylon_Brochure20.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-21",
+      "description": "Click to see page-21",
+      "image": "1_Babylon_Brochure21.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-22",
+      "description": "Click to see page-22",
+      "image": "1_Babylon_Brochure22.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-23",
+      "description": "Click to see page-23",
+      "image": "1_Babylon_Brochure23.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-24",
+      "description": "Click to see page-24",
+      "image": "1_Babylon_Brochure24.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-25",
+      "description": "Click to see page-25",
+      "image": "1_Babylon_Brochure25.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-26",
+      "description": "Click to see page-26",
+      "image": "1_Babylon_Brochure26.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-27",
+      "description": "Click to see page-27",
+      "image": "1_Babylon_Brochure27.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Brochure: Page-28",
+      "description": "Click to see page-28",
+      "image": "1_Babylon_Brochure28.jpg",
+      "imgAspect": 1
+    },
+    {
+      "title": "Babylon Photos: Page-7",
+      "description": "Click to see page-7",
+      "image": "2_Babylon_Photos1.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-8",
+      "description": "Click to see page-8",
+      "image": "2_Babylon_Photos2.jpg",
+      "imgAspect": 1.559748427672956
+    },
+    {
+      "title": "Babylon Photos: Page-9",
+      "description": "Click to see page-9",
+      "image": "2_Babylon_Photos3.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-10",
+      "description": "Click to see page-10",
+      "image": "2_Babylon_Photos4.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-11",
+      "description": "Click to see page-11",
+      "image": "2_Babylon_Photos5.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-12",
+      "description": "Click to see page-12",
+      "image": "2_Babylon_Photos6.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-13",
+      "description": "Click to see page-13",
+      "image": "2_Babylon_Photos7.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-14",
+      "description": "Click to see page-14",
+      "image": "2_Babylon_Photos8.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-15",
+      "description": "Click to see page-15",
+      "image": "2_Babylon_Photos9.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-1",
+      "description": "Click to see page-1",
+      "image": "2_Babylon_Photos10.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-2",
+      "description": "Click to see page-2",
+      "image": "2_Babylon_Photos11.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-3",
+      "description": "Click to see page-3",
+      "image": "2_Babylon_Photos12.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-4",
+      "description": "Click to see page-4",
+      "image": "2_Babylon_Photos13.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-5",
+      "description": "Click to see page-5",
+      "image": "2_Babylon_Photos14.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Babylon Photos: Page-6",
+      "description": "Click to see page-6",
+      "image": "2_Babylon_Photos15.jpg",
+      "imgAspect": 1.4143142286854862
+    },
+    {
+      "title": "Aerobics: Page-1",
+      "description": "Click to see page-1",
+      "image": "1_Aerobics1.jpg",
+      "imgAspect": 1.7777777777777777
+    },
+    {
+      "title": "Aerobics: Page-2",
+      "description": "Click to see page-2",
+      "image": "1_Aerobics2.jpg",
+      "imgAspect": 1.7777777777777777
+    },
+    {
+      "title": "Aerobics: Page-3",
+      "description": "Click to see page-3",
+      "image": "1_Aerobics3.jpg",
+      "imgAspect": 1.7777777777777777
+    },
+    {
+      "title": "Aerobics: Page-4",
+      "description": "Click to see page-4",
+      "image": "1_Aerobics4.jpg",
+      "imgAspect": 1.7777777777777777
+    },
+    {
+      "title": "Aerobics: Page-5",
+      "description": "Click to see page-5",
+      "image": "1_Aerobics5.jpg",
+      "imgAspect": 1.7777777777777777
+    },
+    {
+      "title": "Aqua Zumba: Page-1",
+      "description": "Click to see page-1",
+      "image": "2_Aqua_Zumba1.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-2",
+      "description": "Click to see page-2",
+      "image": "2_Aqua_Zumba2.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-3",
+      "description": "Click to see page-3",
+      "image": "2_Aqua_Zumba3.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-4",
+      "description": "Click to see page-4",
+      "image": "2_Aqua_Zumba4.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-5",
+      "description": "Click to see page-5",
+      "image": "2_Aqua_Zumba5.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-6",
+      "description": "Click to see page-6",
+      "image": "2_Aqua_Zumba6.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Aqua Zumba: Page-7",
+      "description": "Click to see page-7",
+      "image": "2_Aqua_Zumba7.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Awadhi Food Fest: Page-1",
+      "description": "Click to see page-1",
+      "image": "3_Awadhi_Food_Fest1.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-2",
+      "description": "Click to see page-2",
+      "image": "3_Awadhi_Food_Fest2.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-3",
+      "description": "Click to see page-3",
+      "image": "3_Awadhi_Food_Fest3.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-4",
+      "description": "Click to see page-4",
+      "image": "3_Awadhi_Food_Fest4.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-5",
+      "description": "Click to see page-5",
+      "image": "3_Awadhi_Food_Fest5.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-6",
+      "description": "Click to see page-6",
+      "image": "3_Awadhi_Food_Fest6.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Awadhi Food Fest: Page-7",
+      "description": "Click to see page-7",
+      "image": "3_Awadhi_Food_Fest7.jpg",
+      "imgAspect": 1.4854932301740813
+    },
+    {
+      "title": "Dance Fiesta: Page-1",
+      "description": "Click to see page-1",
+      "image": "4_Dance_Fiesta1.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-2",
+      "description": "Click to see page-2",
+      "image": "4_Dance_Fiesta2.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-3",
+      "description": "Click to see page-3",
+      "image": "4_Dance_Fiesta3.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-4",
+      "description": "Click to see page-4",
+      "image": "4_Dance_Fiesta4.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-5",
+      "description": "Click to see page-5",
+      "image": "4_Dance_Fiesta5.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-6",
+      "description": "Click to see page-6",
+      "image": "4_Dance_Fiesta6.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Dance Fiesta: Page-7",
+      "description": "Click to see page-7",
+      "image": "4_Dance_Fiesta7.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-1",
+      "description": "Click to see page-1",
+      "image": "5_Independence_Day1.jpg",
+      "imgAspect": 0.9896702423520064
+    },
+    {
+      "title": "Independence Day: Page-2",
+      "description": "Click to see page-2",
+      "image": "5_Independence_Day2.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-3",
+      "description": "Click to see page-3",
+      "image": "5_Independence_Day3.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-4",
+      "description": "Click to see page-4",
+      "image": "5_Independence_Day4.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-5",
+      "description": "Click to see page-5",
+      "image": "5_Independence_Day5.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-6",
+      "description": "Click to see page-6",
+      "image": "5_Independence_Day6.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-7",
+      "description": "Click to see page-7",
+      "image": "5_Independence_Day7.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-8",
+      "description": "Click to see page-8",
+      "image": "5_Independence_Day8.jpg",
+      "imgAspect": 1.626890756302521
+    },
+    {
+      "title": "Independence Day: Page-9",
+      "description": "Click to see page-9",
+      "image": "5_Independence_Day9.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-10",
+      "description": "Click to see page-10",
+      "image": "5_Independence_Day10.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-11",
+      "description": "Click to see page-11",
+      "image": "5_Independence_Day11.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-12",
+      "description": "Click to see page-12",
+      "image": "5_Independence_Day12.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-13",
+      "description": "Click to see page-13",
+      "image": "5_Independence_Day13.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-14",
+      "description": "Click to see page-14",
+      "image": "5_Independence_Day14.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Independence Day: Page-15",
+      "description": "Click to see page-15",
+      "image": "5_Independence_Day15.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-1",
+      "description": "Click to see page-1",
+      "image": "6_Joke_Samrat1.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-2",
+      "description": "Click to see page-2",
+      "image": "6_Joke_Samrat2.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-3",
+      "description": "Click to see page-3",
+      "image": "6_Joke_Samrat3.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-4",
+      "description": "Click to see page-4",
+      "image": "6_Joke_Samrat4.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-5",
+      "description": "Click to see page-5",
+      "image": "6_Joke_Samrat5.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-6",
+      "description": "Click to see page-6",
+      "image": "6_Joke_Samrat6.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-7",
+      "description": "Click to see page-7",
+      "image": "6_Joke_Samrat7.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Joke Samrat: Page-8",
+      "description": "Click to see page-8",
+      "image": "6_Joke_Samrat8.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Meet and Greet: Page-1",
+      "description": "Click to see page-1",
+      "image": "7_Meet_and_Greet1.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-2",
+      "description": "Click to see page-2",
+      "image": "7_Meet_and_Greet2.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-3",
+      "description": "Click to see page-3",
+      "image": "7_Meet_and_Greet3.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-4",
+      "description": "Click to see page-4",
+      "image": "7_Meet_and_Greet4.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-5",
+      "description": "Click to see page-5",
+      "image": "7_Meet_and_Greet5.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-6",
+      "description": "Click to see page-6",
+      "image": "7_Meet_and_Greet6.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-7",
+      "description": "Click to see page-7",
+      "image": "7_Meet_and_Greet7.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-8",
+      "description": "Click to see page-8",
+      "image": "7_Meet_and_Greet8.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-9",
+      "description": "Click to see page-9",
+      "image": "7_Meet_and_Greet9.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-10",
+      "description": "Click to see page-10",
+      "image": "7_Meet_and_Greet10.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-11",
+      "description": "Click to see page-11",
+      "image": "7_Meet_and_Greet11.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-12",
+      "description": "Click to see page-12",
+      "image": "7_Meet_and_Greet12.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-13",
+      "description": "Click to see page-13",
+      "image": "7_Meet_and_Greet13.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-14",
+      "description": "Click to see page-14",
+      "image": "7_Meet_and_Greet14.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Meet and Greet: Page-15",
+      "description": "Click to see page-15",
+      "image": "7_Meet_and_Greet15.jpg",
+      "imgAspect": 1.498371335504886
+    },
+    {
+      "title": "Mehfil-e-Khaas: Page-1",
+      "description": "Click to see page-1",
+      "image": "8_Mehfil-e-Khaas1.jpg",
+      "imgAspect": 1.3333333333333333
+    },
+    {
+      "title": "Mehfil-e-Khaas: Page-2",
+      "description": "Click to see page-2",
+      "image": "8_Mehfil-e-Khaas2.jpg",
+      "imgAspect": 1.3333333333333333
+    },
+    {
+      "title": "Mehfil-e-Khaas: Page-3",
+      "description": "Click to see page-3",
+      "image": "8_Mehfil-e-Khaas3.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Mehfil-e-Khaas: Page-4",
+      "description": "Click to see page-4",
+      "image": "8_Mehfil-e-Khaas4.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-1",
+      "description": "Click to see page-1",
+      "image": "9_Navratri_20171.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-2",
+      "description": "Click to see page-2",
+      "image": "9_Navratri_20172.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-3",
+      "description": "Click to see page-3",
+      "image": "9_Navratri_20173.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-4",
+      "description": "Click to see page-4",
+      "image": "9_Navratri_20174.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-5",
+      "description": "Click to see page-5",
+      "image": "9_Navratri_20175.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-6",
+      "description": "Click to see page-6",
+      "image": "9_Navratri_20176.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-7",
+      "description": "Click to see page-7",
+      "image": "9_Navratri_20177.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Navratri 2017: Page-8",
+      "description": "Click to see page-8",
+      "image": "9_Navratri_20178.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-1",
+      "description": "Click to see page-1",
+      "image": "10_Paratha_Festival1.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-2",
+      "description": "Click to see page-2",
+      "image": "10_Paratha_Festival2.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-3",
+      "description": "Click to see page-3",
+      "image": "10_Paratha_Festival3.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-4",
+      "description": "Click to see page-4",
+      "image": "10_Paratha_Festival4.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-5",
+      "description": "Click to see page-5",
+      "image": "10_Paratha_Festival5.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-6",
+      "description": "Click to see page-6",
+      "image": "10_Paratha_Festival6.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-7",
+      "description": "Click to see page-7",
+      "image": "10_Paratha_Festival7.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-8",
+      "description": "Click to see page-8",
+      "image": "10_Paratha_Festival8.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-9",
+      "description": "Click to see page-9",
+      "image": "10_Paratha_Festival9.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-10",
+      "description": "Click to see page-10",
+      "image": "10_Paratha_Festival10.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-11",
+      "description": "Click to see page-11",
+      "image": "10_Paratha_Festival11.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-12",
+      "description": "Click to see page-12",
+      "image": "10_Paratha_Festival12.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-13",
+      "description": "Click to see page-13",
+      "image": "10_Paratha_Festival13.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-14",
+      "description": "Click to see page-14",
+      "image": "10_Paratha_Festival14.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-15",
+      "description": "Click to see page-15",
+      "image": "10_Paratha_Festival15.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-16",
+      "description": "Click to see page-16",
+      "image": "10_Paratha_Festival16.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-17",
+      "description": "Click to see page-17",
+      "image": "10_Paratha_Festival17.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Paratha Festival: Page-18",
+      "description": "Click to see page-18",
+      "image": "10_Paratha_Festival18.jpg",
+      "imgAspect": 1.5
+    },
+    {
+      "title": "Pool Party 1: Page-1",
+      "description": "Click to see page-1",
+      "image": "11_Pool_Party_11.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Pool Party 1: Page-2",
+      "description": "Click to see page-2",
+      "image": "11_Pool_Party_12.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Pool Party 1: Page-3",
+      "description": "Click to see page-3",
+      "image": "11_Pool_Party_13.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Pool Party 1: Page-4",
+      "description": "Click to see page-4",
+      "image": "11_Pool_Party_14.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Pool Party 1: Page-5",
+      "description": "Click to see page-5",
+      "image": "11_Pool_Party_15.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Pool Party 1: Page-6",
+      "description": "Click to see page-6",
+      "image": "11_Pool_Party_16.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Yoga1: Page-1",
+      "description": "Click to see page-1",
+      "image": "12_Yoga11.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Yoga1: Page-2",
+      "description": "Click to see page-2",
+      "image": "12_Yoga12.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Yoga1: Page-3",
+      "description": "Click to see page-3",
+      "image": "12_Yoga13.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Yoga1: Page-4",
+      "description": "Click to see page-4",
+      "image": "12_Yoga14.jpg",
+      "imgAspect": 1.4938271604938271
+    },
+    {
+      "title": "Yoga1: Page-5",
+      "description": "Click to see page-5",
+      "image": "12_Yoga15.jpg",
+      "imgAspect": 1.4938271604938271
+    }
+  ],
+  "videos": [
+    {
+      "title": "Club Babylon Tour",
+      "description": "A video tour of Club Babylon",
+      "ID": "Jn-yPAUOFCY",
+      "start":10,
+      "end":20
+    }
+  ],
+  "pageData": [
+    0, 1, 2,3
+  ],
+  "thumbnails":[
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 1", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos1.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 2", "imgAspect":1.559748427672956, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos2.jpg","image":"2_Babylon_Photos2.jpg"},
+    {"size": "thumb-OneByTwo", "mediaType": "photo", "title": "Photo 3", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos3.jpg","image":"2_Babylon_Photos3.jpg"},
+    {"size": "thumb-OneByTwo", "mediaType": "photo", "title": "Photo 4", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos4.jpg","image":"2_Babylon_Photos4.jpg"},
+    {"size": "thumb-fourByFour", "mediaType": "photo", "title": "Photo 5", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos5.jpg","image":"2_Babylon_Photos5.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 6", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos6.jpg","image":"2_Babylon_Photos6.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 7", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos7.jpg","image":"2_Babylon_Photos7.jpg"},
+    {"size": "thumb-fourByFour", "mediaType": "photo", "title": "Photo 8", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos8.jpg","image":"2_Babylon_Photos8.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 9", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos9.jpg","image":"2_Babylon_Photos9.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 10", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos10.jpg","image":"2_Babylon_Photos10.jpg"},
+    {"size": "thumb-fourByFour", "mediaType": "photo", "title": "Photo 11", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos11.jpg","image":"2_Babylon_Photos11.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 12", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos12.jpg","image":"2_Babylon_Photos12.jpg"},
+    {"size": "thumb-oneByOne", "mediaType": "photo", "title": "Photo 13", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos13.jpg","image":"2_Babylon_Photos13.jpg"},
+    {"size": "thumb-fourByFour", "mediaType": "photo", "title": "Photo 14", "imgAspect":1.4143142286854862, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos14.jpg","image":"2_Babylon_Photos14.jpg"},
+    {"size": "thumb-fourByFour","mediaType": "photo","title": "Photo 15","imgAspect":1.4143142286854862,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Babylon_Photos15.jpg","image":"2_Babylon_Photos15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Reception", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene2/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Lawn", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene5/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Restaurant Day View", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene0/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Restaurant Night View", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene8/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Swimming Pool", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene6/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Gym", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene1/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Banquet Hall", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene7/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Pool Table Room", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene3/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Table Tennis Room", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene4/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Washroom", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene9/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "scene", "title": "Steam Room", "imgAspect":1.5, "background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/images/Scene10/Thumbnail/thumb.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "video", "title": "Club Babylon Video", "imgAspect":1.5, "background": "https://i1.ytimg.com/vi/Jn-yPAUOFCY/hqdefault.jpg","image":"2_Babylon_Photos1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 1","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure1.jpg","image":"1_Babylon_Brochure1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 2","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure2.jpg","image":"1_Babylon_Brochure2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 3","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure3.jpg","image":"1_Babylon_Brochure3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 4","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure4.jpg","image":"1_Babylon_Brochure4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 5","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure5.jpg","image":"1_Babylon_Brochure5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 6","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure6.jpg","image":"1_Babylon_Brochure6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 7","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure7.jpg","image":"1_Babylon_Brochure7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 8","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure8.jpg","image":"1_Babylon_Brochure8.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 9","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure9.jpg","image":"1_Babylon_Brochure9.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 10","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure10.jpg","image":"1_Babylon_Brochure10.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 11","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure11.jpg","image":"1_Babylon_Brochure11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 12","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure12.jpg","image":"1_Babylon_Brochure12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 13","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure13.jpg","image":"1_Babylon_Brochure13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 14","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure14.jpg","image":"1_Babylon_Brochure14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 15","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure15.jpg","image":"1_Babylon_Brochure15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 16","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure16.jpg","image":"1_Babylon_Brochure16.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 17","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure17.jpg","image":"1_Babylon_Brochure17.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 18","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure18.jpg","image":"1_Babylon_Brochure18.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 19","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure19.jpg","image":"1_Babylon_Brochure19.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 20","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure20.jpg","image":"1_Babylon_Brochure20.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 21","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure21.jpg","image":"1_Babylon_Brochure21.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 22","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure22.jpg","image":"1_Babylon_Brochure22.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 23","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure23.jpg","image":"1_Babylon_Brochure23.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 24","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure24.jpg","image":"1_Babylon_Brochure24.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 25","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure25.jpg","image":"1_Babylon_Brochure25.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 26","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure26.jpg","image":"1_Babylon_Brochure26.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 27","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure27.jpg","image":"1_Babylon_Brochure27.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Brochure 28","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Babylon_Brochure28.jpg","image":"1_Babylon_Brochure28.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aerobics 1","imgAspect":1.7777777777777777,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Aerobics1.jpg","image":"1_Aerobics1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aerobics 2","imgAspect":1.7777777777777777,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Aerobics2.jpg","image":"1_Aerobics2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aerobics 3","imgAspect":1.7777777777777777,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Aerobics3.jpg","image":"1_Aerobics3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aerobics 4","imgAspect":1.7777777777777777,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Aerobics4.jpg","image":"1_Aerobics4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aerobics 5","imgAspect":1.7777777777777777,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/1_Aerobics5.jpg","image":"1_Aerobics5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 1","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba1.jpg","image":"2_Aqua_Zumba1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba2.jpg","image":"2_Aqua_Zumba2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba3.jpg","image":"2_Aqua_Zumba3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba4.jpg","image":"2_Aqua_Zumba4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba5.jpg","image":"2_Aqua_Zumba5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 6","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba6.jpg","image":"2_Aqua_Zumba6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Aqua Zumba 7","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/2_Aqua_Zumba7.jpg","image":"2_Aqua_Zumba7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 1","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest1.jpg","image":"3_Awadhi_Food_Fest1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 2","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest2.jpg","image":"3_Awadhi_Food_Fest2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 3","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest3.jpg","image":"3_Awadhi_Food_Fest3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 4","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest4.jpg","image":"3_Awadhi_Food_Fest4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 5","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest5.jpg","image":"3_Awadhi_Food_Fest5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 6","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest6.jpg","image":"3_Awadhi_Food_Fest6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Awadhi Food Fest 7","imgAspect":1.4854932301740813,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/3_Awadhi_Food_Fest7.jpg","image":"3_Awadhi_Food_Fest7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 1","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta1.jpg","image":"4_Dance_Fiesta1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta2.jpg","image":"4_Dance_Fiesta2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta3.jpg","image":"4_Dance_Fiesta3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta4.jpg","image":"4_Dance_Fiesta4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta5.jpg","image":"4_Dance_Fiesta5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 6","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta6.jpg","image":"4_Dance_Fiesta6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Dance Fiesta 7","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/4_Dance_Fiesta7.jpg","image":"4_Dance_Fiesta7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 1","imgAspect":0.9896702423520064,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day1.jpg","image":"5_Independence_Day1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day2.jpg","image":"5_Independence_Day2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day3.jpg","image":"5_Independence_Day3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day4.jpg","image":"5_Independence_Day4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day5.jpg","image":"5_Independence_Day5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 6","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day6.jpg","image":"5_Independence_Day6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 7","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day7.jpg","image":"5_Independence_Day7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 8","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day8.jpg","image":"5_Independence_Day8.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 9","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day9.jpg","image":"5_Independence_Day9.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 10","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day10.jpg","image":"5_Independence_Day10.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 11","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day11.jpg","image":"5_Independence_Day11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 12","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day12.jpg","image":"5_Independence_Day12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 13","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day13.jpg","image":"5_Independence_Day13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 14","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day14.jpg","image":"5_Independence_Day14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Independence Day 15","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/5_Independence_Day15.jpg","image":"5_Independence_Day15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 1","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat1.jpg","image":"6_Joke_Samrat1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat2.jpg","image":"6_Joke_Samrat2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat3.jpg","image":"6_Joke_Samrat3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat4.jpg","image":"6_Joke_Samrat4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat5.jpg","image":"6_Joke_Samrat5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 6","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat6.jpg","image":"6_Joke_Samrat6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 7","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat7.jpg","image":"6_Joke_Samrat7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Joke Samrat 8","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/6_Joke_Samrat8.jpg","image":"6_Joke_Samrat8.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 1","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet1.jpg","image":"7_Meet_and_Greet1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 2","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet2.jpg","image":"7_Meet_and_Greet2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 3","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet3.jpg","image":"7_Meet_and_Greet3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 4","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet4.jpg","image":"7_Meet_and_Greet4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 5","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet5.jpg","image":"7_Meet_and_Greet5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 6","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet6.jpg","image":"7_Meet_and_Greet6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 7","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet7.jpg","image":"7_Meet_and_Greet7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 8","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet8.jpg","image":"7_Meet_and_Greet8.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 9","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet9.jpg","image":"7_Meet_and_Greet9.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 10","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet10.jpg","image":"7_Meet_and_Greet10.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 11","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet11.jpg","image":"7_Meet_and_Greet11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 12","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet12.jpg","image":"7_Meet_and_Greet12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 13","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet13.jpg","image":"7_Meet_and_Greet13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 14","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet14.jpg","image":"7_Meet_and_Greet14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Meet and Greet 15","imgAspect":1.498371335504886,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/7_Meet_and_Greet15.jpg","image":"7_Meet_and_Greet15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Mehfil-e-Khas 1","imgAspect":1.3333333333333333,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/8_Mehfil-e-Khaas1.jpg","image":"8_Mehfil-e-Khaas1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Mehfil-e-Khas 2","imgAspect":1.3333333333333333,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/8_Mehfil-e-Khaas2.jpg","image":"8_Mehfil-e-Khaas2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Mehfil-e-Khas 3","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/8_Mehfil-e-Khaas3.jpg","image":"8_Mehfil-e-Khaas3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Mehfil-e-Khas 4","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/8_Mehfil-e-Khaas4.jpg","image":"8_Mehfil-e-Khaas4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 1","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20171.jpg","image":"9_Navratri_20171.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 2","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20172.jpg","image":"9_Navratri_20172.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 3","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20173.jpg","image":"9_Navratri_20173.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 4","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20174.jpg","image":"9_Navratri_20174.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 5","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20175.jpg","image":"9_Navratri_20175.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 6","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20176.jpg","image":"9_Navratri_20176.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 7","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20177.jpg","image":"9_Navratri_20177.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Navratri 2017 8","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/9_Navratri_20178.jpg","image":"9_Navratri_20178.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 1","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival1.jpg","image":"10_Paratha_Festival1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 2","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival2.jpg","image":"10_Paratha_Festival2.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 3","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival3.jpg","image":"10_Paratha_Festival3.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 4","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival4.jpg","image":"10_Paratha_Festival4.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 5","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival5.jpg","image":"10_Paratha_Festival5.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 6","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival6.jpg","image":"10_Paratha_Festival6.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 7","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival7.jpg","image":"10_Paratha_Festival7.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 8","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival8.jpg","image":"10_Paratha_Festival8.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 9","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival9.jpg","image":"10_Paratha_Festival9.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 10","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival10.jpg","image":"10_Paratha_Festival10.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 11","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival11.jpg","image":"10_Paratha_Festival11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 12","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival12.jpg","image":"10_Paratha_Festival12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 13","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival13.jpg","image":"10_Paratha_Festival13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 14","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival14.jpg","image":"10_Paratha_Festival14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 15","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival15.jpg","image":"10_Paratha_Festival15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 16","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival16.jpg","image":"10_Paratha_Festival16.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 17","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival17.jpg","image":"10_Paratha_Festival17.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Paratha Festival 18","imgAspect":1.5,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/10_Paratha_Festival18.jpg","image":"10_Paratha_Festival18.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 1","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_11.jpg","image":"11_Pool_Party_11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_12.jpg","image":"11_Pool_Party_12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_13.jpg","image":"11_Pool_Party_13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_14.jpg","image":"11_Pool_Party_14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_15.jpg","image":"11_Pool_Party_15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Pool Party 6","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/11_Pool_Party_16.jpg","image":"11_Pool_Party_16.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Yoga 1","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/12_Yoga11.jpg","image":"12_Yoga11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Yoga 2","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/12_Yoga12.jpg","image":"12_Yoga12.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Yoga 3","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/12_Yoga13.jpg","image":"12_Yoga13.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Yoga 4","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/12_Yoga14.jpg","image":"12_Yoga14.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "photo","title": "Yoga 5","imgAspect":1.4938271604938271,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/HQ/12_Yoga15.jpg","image":"12_Yoga15.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Aerobics Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/1_Aerobics1.jpg","image":"1_Aerobics1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Aqua Zumba Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/2_Aqua_Zumba1.jpg","image":"2_Aqua_Zumba1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Awadhi Food Fest Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/3_Awadhi_Food_Fest1.jpg","image":"3_Awadhi_Food_Fest1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Dance Fiesta Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/4_Dance_Fiesta1.jpg","image":"4_Dance_Fiesta1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Independence Day Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/5_Independence_Day1.jpg","image":"5_Independence_Day1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Joke Samrat Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/6_Joke_Samrat1.jpg","image":"6_Joke_Samrat1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Meet and Greet Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/7_Meet_and_Greet1.jpg","image":"7_Meet_and_Greet1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Mehfil-e-Khaas Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/8_Mehfil-e-Khaas1.jpg","image":"8_Mehfil-e-Khaas1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Navratri Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/9_Navratri_20171.jpg","image":"9_Navratri_20171.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Paratha Festival Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/10_Paratha_Festival1.jpg","image":"10_Paratha_Festival1.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Pool Party Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/11_Pool_Party_11.jpg","image":"11_Pool_Party_11.jpg"},
+    {"size": "thumb-oneByOne","mediaType": "collection","title": "Yoga Collection","imgAspect":1,"background": "https://d2nhgd9enfj08.cloudfront.net/Club_Babylon_Ahmedabad/Thumbnails/12_Yoga11.jpg","image":"12_Yoga11.jpg"}
+  ],
+  "collections":[
+    {
+      "name":"360 Tour",
+      "description":"360 Tour of Club Babylon",
+      "entities":[
+        {"type":"scene","value":2,"thumbnail":15},
+        {"type":"scene","value":5,"thumbnail":16},
+        {"type":"scene","value":0,"thumbnail":17},
+        {"type":"scene","value":8,"thumbnail":18},
+        {"type":"scene","value":6,"thumbnail":19},
+        {"type":"scene","value":1,"thumbnail":20},
+        {"type":"scene","value":7,"thumbnail":21},
+        {"type":"scene","value":3,"thumbnail":22},
+        {"type":"scene","value":4,"thumbnail":23},
+        {"type":"scene","value":9,"thumbnail":24},
+        {"type":"scene","value":10,"thumbnail":25}
+      ]
+    },
+    {
+      "name":"Photos & Videos",
+      "description":"Photos and videos of Club Babylon",
+      "entities":[
+        {"type":"photo","value":28,"thumbnail":0},
+        {"type":"photo","value":29,"thumbnail":1},
+        {"type":"photo","value":30,"thumbnail":2},
+        {"type":"photo","value":31,"thumbnail":3},
+        {"type":"photo","value":32,"thumbnail":4},
+        {"type":"photo","value":33,"thumbnail":5},
+        {"type":"photo","value":34,"thumbnail":6},
+        {"type":"photo","value":35,"thumbnail":7},
+        {"type":"photo","value":36,"thumbnail":8},
+        {"type":"photo","value":37,"thumbnail":9},
+        {"type":"photo","value":38,"thumbnail":10},
+        {"type":"photo","value":39,"thumbnail":11},
+        {"type":"photo","value":40,"thumbnail":12},
+        {"type":"photo","value":41,"thumbnail":13},
+        {"type":"photo","value":42,"thumbnail":14},
+        {"type":"video","value":0,"thumbnail":26}
+      ]
+    },
+    {
+      "name":"Brochure",
+      "description":"Brochure of Club Babylon",
+      "entities":[
+        {"type":"photo","value":0,"thumbnail":27},
+        {"type":"photo","value":1,"thumbnail":28},
+        {"type":"photo","value":2,"thumbnail":29},
+        {"type":"photo","value":3,"thumbnail":30},
+        {"type":"photo","value":4,"thumbnail":31},
+        {"type":"photo","value":5,"thumbnail":32},
+        {"type":"photo","value":6,"thumbnail":33},
+        {"type":"photo","value":7,"thumbnail":34},
+        {"type":"photo","value":8,"thumbnail":35},
+        {"type":"photo","value":9,"thumbnail":36},
+        {"type":"photo","value":10,"thumbnail":37},
+        {"type":"photo","value":11,"thumbnail":38},
+        {"type":"photo","value":12,"thumbnail":39},
+        {"type":"photo","value":13,"thumbnail":40},
+        {"type":"photo","value":14,"thumbnail":41},
+        {"type":"photo","value":15,"thumbnail":42},
+        {"type":"photo","value":16,"thumbnail":43},
+        {"type":"photo","value":17,"thumbnail":44},
+        {"type":"photo","value":18,"thumbnail":45},
+        {"type":"photo","value":19,"thumbnail":46},
+        {"type":"photo","value":20,"thumbnail":47},
+        {"type":"photo","value":21,"thumbnail":48},
+        {"type":"photo","value":22,"thumbnail":49},
+        {"type":"photo","value":23,"thumbnail":50},
+        {"type":"photo","value":24,"thumbnail":51},
+        {"type":"photo","value":25,"thumbnail":52},
+        {"type":"photo","value":26,"thumbnail":53},
+        {"type":"photo","value":27,"thumbnail":54}
+      ]
+    },
+    {
+      "name":"Events",
+      "description":"Events @ Club Babylon!! Yayy!!",
+      "entities":[
+        {"type":"collection","value":4,"thumbnail":160},
+        {"type":"collection","value":5,"thumbnail":161},
+        {"type":"collection","value":6,"thumbnail":162},
+        {"type":"collection","value":7,"thumbnail":163},
+        {"type":"collection","value":8,"thumbnail":164},
+        {"type":"collection","value":9,"thumbnail":165},
+        {"type":"collection","value":10,"thumbnail":166},
+        {"type":"collection","value":11,"thumbnail":167},
+        {"type":"collection","value":12,"thumbnail":168},
+        {"type":"collection","value":13,"thumbnail":169},
+        {"type":"collection","value":14,"thumbnail":170},
+        {"type":"collection","value":15,"thumbnail":171}
+      ]
+    },
+    {
+      "name":"Aerobics",
+      "description":"Aerobics event at Club Babylon",
+      "entities":[
+        {"type":"photo","value":43,"thumbnail":55},
+        {"type":"photo","value":44,"thumbnail":56},
+        {"type":"photo","value":45,"thumbnail":57},
+        {"type":"photo","value":46,"thumbnail":58},
+        {"type":"photo","value":47,"thumbnail":59}
+      ]
+    },
+    {
+      "name":"Aqua Zumba",
+      "description":"Aqua Zumba event at Club Babylon",
+      "entities":[
+        {"type":"photo","value":48,"thumbnail":60},
+        {"type":"photo","value":49,"thumbnail":61},
+        {"type":"photo","value":50,"thumbnail":62},
+        {"type":"photo","value":51,"thumbnail":63},
+        {"type":"photo","value":52,"thumbnail":64},
+        {"type":"photo","value":53,"thumbnail":65},
+        {"type":"photo","value":54,"thumbnail":66}
+      ]
+    },
+    {
+      "name":"Awadhi Food Fest",
+      "description":"Awadhi Food Fest at Club Babylon",
+      "entities":[
+        {"type":"photo","value":55,"thumbnail":67},
+        {"type":"photo","value":56,"thumbnail":68},
+        {"type":"photo","value":57,"thumbnail":69},
+        {"type":"photo","value":58,"thumbnail":70},
+        {"type":"photo","value":59,"thumbnail":71},
+        {"type":"photo","value":60,"thumbnail":72},
+        {"type":"photo","value":61,"thumbnail":73}
+      ]
+    },
+    {
+      "name":"Dance Fiesta",
+      "description":"Dance Fiesta at Club Babylon",
+      "entities":[
+        {"type":"photo","value":62,"thumbnail":74},
+        {"type":"photo","value":63,"thumbnail":75},
+        {"type":"photo","value":64,"thumbnail":76},
+        {"type":"photo","value":65,"thumbnail":77},
+        {"type":"photo","value":66,"thumbnail":78},
+        {"type":"photo","value":67,"thumbnail":79},
+        {"type":"photo","value":68,"thumbnail":80}
+      ]
+    },
+    {
+      "name":"Independence Day",
+      "description":"Independence Day at Club Babylon",
+      "entities":[
+        {"type":"photo","value":69,"thumbnail":81},
+        {"type":"photo","value":70,"thumbnail":82},
+        {"type":"photo","value":71,"thumbnail":83},
+        {"type":"photo","value":72,"thumbnail":84},
+        {"type":"photo","value":73,"thumbnail":85},
+        {"type":"photo","value":74,"thumbnail":86},
+        {"type":"photo","value":75,"thumbnail":87},
+        {"type":"photo","value":76,"thumbnail":88},
+        {"type":"photo","value":77,"thumbnail":89},
+        {"type":"photo","value":78,"thumbnail":90},
+        {"type":"photo","value":79,"thumbnail":91},
+        {"type":"photo","value":80,"thumbnail":92},
+        {"type":"photo","value":81,"thumbnail":93},
+        {"type":"photo","value":82,"thumbnail":94},
+        {"type":"photo","value":83,"thumbnail":95}
+      ]
+    },
+    {
+      "name":"Joke Samrat",
+      "description":"Joke Samrat at Club Babylon",
+      "entities":[
+        {"type":"photo","value":84,"thumbnail":96},
+        {"type":"photo","value":85,"thumbnail":97},
+        {"type":"photo","value":86,"thumbnail":98},
+        {"type":"photo","value":87,"thumbnail":99},
+        {"type":"photo","value":88,"thumbnail":100},
+        {"type":"photo","value":89,"thumbnail":101},
+        {"type":"photo","value":90,"thumbnail":102},
+        {"type":"photo","value":91,"thumbnail":103}
+      ]
+    },
+    {
+      "name":"Meet and Greet",
+      "description":"Meet and Greet at Club Babylon",
+      "entities":[
+        {"type":"photo","value":92,"thumbnail":104},
+        {"type":"photo","value":93,"thumbnail":105},
+        {"type":"photo","value":94,"thumbnail":106},
+        {"type":"photo","value":95,"thumbnail":107},
+        {"type":"photo","value":96,"thumbnail":108},
+        {"type":"photo","value":97,"thumbnail":109},
+        {"type":"photo","value":98,"thumbnail":110},
+        {"type":"photo","value":99,"thumbnail":111},
+        {"type":"photo","value":100,"thumbnail":112},
+        {"type":"photo","value":101,"thumbnail":113},
+        {"type":"photo","value":102,"thumbnail":114},
+        {"type":"photo","value":103,"thumbnail":115},
+        {"type":"photo","value":104,"thumbnail":116},
+        {"type":"photo","value":105,"thumbnail":117},
+        {"type":"photo","value":106,"thumbnail":118}
+      ]
+    },
+    {
+      "name":"Mehfil-e-Khaas",
+      "description":"Mehfil-e-Khas at Club Babylon",
+      "entities":[
+        {"type":"photo","value":107,"thumbnail":119},
+        {"type":"photo","value":108,"thumbnail":120},
+        {"type":"photo","value":109,"thumbnail":121},
+        {"type":"photo","value":110,"thumbnail":122}
+      ]
+    },
+    {
+      "name":"Navratri 2017",
+      "description":"Navratri 2017 at Club Babylon",
+      "entities":[
+        {"type":"photo","value":111,"thumbnail":123},
+        {"type":"photo","value":112,"thumbnail":124},
+        {"type":"photo","value":113,"thumbnail":125},
+        {"type":"photo","value":114,"thumbnail":126},
+        {"type":"photo","value":115,"thumbnail":127},
+        {"type":"photo","value":116,"thumbnail":128},
+        {"type":"photo","value":117,"thumbnail":129},
+        {"type":"photo","value":118,"thumbnail":130}
+      ]
+    },
+    {
+      "name":"Paratha Festival",
+      "description":"Paratha Festival at Club Babylon",
+      "entities":[
+        {"type":"photo","value":119,"thumbnail":131},
+        {"type":"photo","value":120,"thumbnail":132},
+        {"type":"photo","value":121,"thumbnail":133},
+        {"type":"photo","value":122,"thumbnail":134},
+        {"type":"photo","value":123,"thumbnail":135},
+        {"type":"photo","value":124,"thumbnail":136},
+        {"type":"photo","value":125,"thumbnail":137},
+        {"type":"photo","value":126,"thumbnail":138},
+        {"type":"photo","value":127,"thumbnail":139},
+        {"type":"photo","value":128,"thumbnail":140},
+        {"type":"photo","value":129,"thumbnail":141},
+        {"type":"photo","value":130,"thumbnail":142},
+        {"type":"photo","value":131,"thumbnail":143},
+        {"type":"photo","value":132,"thumbnail":144},
+        {"type":"photo","value":133,"thumbnail":145},
+        {"type":"photo","value":134,"thumbnail":146},
+        {"type":"photo","value":135,"thumbnail":147},
+        {"type":"photo","value":136,"thumbnail":148}
+      ]
+    },
+    {
+      "name":"Pool Party 1",
+      "description":"Pool Party at Club Babylon",
+      "entities":[
+        {"type":"photo","value":137,"thumbnail":149},
+        {"type":"photo","value":138,"thumbnail":150},
+        {"type":"photo","value":139,"thumbnail":151},
+        {"type":"photo","value":140,"thumbnail":152},
+        {"type":"photo","value":141,"thumbnail":153},
+        {"type":"photo","value":142,"thumbnail":154}
+      ]
+    },
+    {
+      "name":"Yoga 1",
+      "description":"Yoga at Club Babylon",
+      "entities":[
+        {"type":"photo","value":143,"thumbnail":155},
+        {"type":"photo","value":144,"thumbnail":156},
+        {"type":"photo","value":145,"thumbnail":157},
+        {"type":"photo","value":146,"thumbnail":158},
+        {"type":"photo","value":147,"thumbnail":159}
+      ]
+    }
+  ]
+}
