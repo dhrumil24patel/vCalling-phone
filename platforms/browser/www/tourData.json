@@ -10,7 +10,7 @@
   "description":" ",
   "scenes": [
     {
-      "panoImg": "Scene0",
+      "panoImg": "Scene011",
       "init_lat": -3.1674702365181036,
       "init_lon": 108.03033121000868,
       "init_fov": 70,

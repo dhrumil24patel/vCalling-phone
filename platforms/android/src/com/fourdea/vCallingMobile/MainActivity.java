@@ -21,6 +21,7 @@ package com.fourdea.vCallingMobile;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
+import io.ably.lib.realtime.*;
 
 public class MainActivity extends CordovaActivity
 {
@@ -37,5 +38,31 @@ public class MainActivity extends CordovaActivity
 
         // Set by <content src="index.html" /> in config.xml
         loadUrl(launchUrl);
+		
+		try{
+			temp();
+		}catch(Exception e){
+			
+		}
     }
+	
+	public void temp() throws Exception{
+		AblyRealtime ably = new AblyRealtime("WIIeoQ.TekHcA:jsBD7ePEu3mcQCjc");
+		ably.connection.on(new ConnectionStateListener() {
+			@Override
+			public void onConnectionStateChanged(ConnectionStateChange state) {
+				System.out.println("New state is " + state.current.name());
+				switch (state.current) {
+					case connected: {
+						// Successful connection
+						break;
+					}
+					case failed: {
+						// Failed connection
+						break;
+					}
+				}
+			}
+		});
+	}
 }
