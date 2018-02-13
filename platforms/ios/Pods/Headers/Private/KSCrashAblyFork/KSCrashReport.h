@@ -1,0 +1,1 @@
+../../../KSCrashAblyFork/Source/KSCrash/Recording/KSCrashReport.h

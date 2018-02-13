@@ -382,6 +382,22 @@ module.exports = [
       "navigator.notification",
       "navigator"
     ]
+  },
+  {
+    "id": "phonegap-plugin-push.PushNotification",
+    "file": "plugins/phonegap-plugin-push/www/push.js",
+    "pluginId": "phonegap-plugin-push",
+    "clobbers": [
+      "PushNotification"
+    ]
+  },
+  {
+    "id": "phonegap-plugin-local-notification.Notification",
+    "file": "plugins/phonegap-plugin-local-notification/www/notification.js",
+    "pluginId": "phonegap-plugin-local-notification",
+    "clobbers": [
+      "Notification"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -400,7 +416,9 @@ module.exports.metadata =
   "cordova-plugin-media-capture": "1.4.3",
   "cordova-plugin-network-information": "1.3.4",
   "cordova-plugin-vibration": "2.1.6",
-  "cordova-plugin-whitelist": "1.3.3"
+  "cordova-plugin-whitelist": "1.3.3",
+  "phonegap-plugin-push": "2.1.3",
+  "phonegap-plugin-local-notification": "1.0.1"
 };
 // BOTTOM OF METADATA
 });

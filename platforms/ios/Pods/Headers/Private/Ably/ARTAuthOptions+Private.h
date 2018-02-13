@@ -1,0 +1,1 @@
+../../../Ably/Source/ARTAuthOptions+Private.h

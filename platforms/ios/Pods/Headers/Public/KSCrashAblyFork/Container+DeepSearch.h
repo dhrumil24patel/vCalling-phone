@@ -1,0 +1,1 @@
+../../../KSCrashAblyFork/Source/KSCrash/Reporting/Filters/Tools/Container+DeepSearch.h

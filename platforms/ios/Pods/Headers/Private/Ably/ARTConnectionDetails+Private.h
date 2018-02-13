@@ -1,0 +1,1 @@
+../../../Ably/Source/ARTConnectionDetails+Private.h

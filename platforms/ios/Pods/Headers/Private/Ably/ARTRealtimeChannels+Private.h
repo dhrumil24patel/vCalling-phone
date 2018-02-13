@@ -1,0 +1,1 @@
+../../../Ably/Source/ARTRealtimeChannels+Private.h

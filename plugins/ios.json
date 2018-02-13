@@ -48,6 +48,12 @@
     },
     "cordova-plugin-whitelist": {
       "PACKAGE_NAME": "com.fourdea.vCallingMobile"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
+    },
+    "phonegap-plugin-local-notification": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
     }
   },
   "dependent_plugins": {

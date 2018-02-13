@@ -1,0 +1,1 @@
+../../../KSCrashAblyFork/Source/KSCrash/Reporting/Sinks/KSCrashReportSinkConsole.h

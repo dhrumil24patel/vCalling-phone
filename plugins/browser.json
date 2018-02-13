@@ -42,6 +42,12 @@
     },
     "cordova-plugin-background-mode": {
       "PACKAGE_NAME": "com.phonegap.helloworld"
+    },
+    "phonegap-plugin-push": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
+    },
+    "phonegap-plugin-local-notification": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
     }
   },
   "dependent_plugins": {

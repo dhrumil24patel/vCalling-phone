@@ -56,6 +56,12 @@
     <feature name="Vibration">
         <param name="ios-package" value="CDVVibration" />
     </feature>
+    <feature name="PushNotification">
+        <param name="ios-package" value="PushPlugin" />
+    </feature>
+    <feature name="LocalNotifications">
+        <param name="ios-package" value="W3CLocalNotifications" />
+    </feature>
     <name>vCalling Mobile</name>
     <description>
         Hello World sample application that responds to the deviceready event.

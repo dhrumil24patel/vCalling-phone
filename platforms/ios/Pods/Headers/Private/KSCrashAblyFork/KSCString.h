@@ -1,0 +1,1 @@
+../../../KSCrashAblyFork/Source/KSCrash/Reporting/Tools/KSCString.h

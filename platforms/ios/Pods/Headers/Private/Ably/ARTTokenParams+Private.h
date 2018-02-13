@@ -1,0 +1,1 @@
+../../../Ably/Source/ARTTokenParams+Private.h
