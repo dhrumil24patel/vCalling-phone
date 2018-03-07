@@ -1,0 +1,50 @@
+{
+  "_from": "cordova-ios-voip-push",
+  "_id": "cordova-ios-voip-push@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha1-PyCBwM2EhLkhAX5nCv9NcSfnFWA=",
+  "_location": "/cordova-ios-voip-push",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-ios-voip-push",
+    "name": "cordova-ios-voip-push",
+    "escapedName": "cordova-ios-voip-push",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-ios-voip-push/-/cordova-ios-voip-push-1.0.2.tgz",
+  "_shasum": "3f2081c0cd8484b921017e670aff4d7127e71560",
+  "_spec": "cordova-ios-voip-push",
+  "_where": "/Users/dhyeyshah/Dhrumil/vCalling-phone",
+  "author": {
+    "name": "Nikola Brežnjak",
+    "email": "nikola.breznjak@gmail.com",
+    "url": "http://www.nikola-breznjak.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/Hitman666/cordova-ios-voip-push/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Register and receive VoIP push notifications in hybrid app projects with Cordova",
+  "homepage": "https://github.com/Hitman666/cordova-ios-voip-push#readme",
+  "keywords": [
+    "voip",
+    "cordova",
+    "push"
+  ],
+  "license": "ISC",
+  "name": "cordova-ios-voip-push",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hitman666/cordova-ios-voip-push.git"
+  },
+  "version": "1.0.2"
+}

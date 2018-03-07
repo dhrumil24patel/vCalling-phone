@@ -24,12 +24,14 @@
       "phonegap-plugin-push": {
         "FCM_VERSION": "11.6.2"
       },
-      "phonegap-plugin-local-notification": {}
+      "phonegap-plugin-local-notification": {},
+      "com.nikola-breznjak.voippush": {}
     }
   },
   "dependencies": {
     "cordova-android": "~6.3.0",
     "cordova-ios": "^4.5.4",
+    "cordova-ios-voip-push": "^1.0.2",
     "cordova-plugin-background-mode": "~0.7.2",
     "cordova-plugin-battery-status": "~1.2.4",
     "cordova-plugin-camera": "~2.4.1",
@@ -43,7 +45,7 @@
     "cordova-plugin-network-information": "~1.3.3",
     "cordova-plugin-vibration": "~2.1.5",
     "cordova-plugin-whitelist": "~1.3.3",
-    "phonegap-plugin-push": "^2.1.3",
-    "phonegap-plugin-local-notification": "^1.0.1"
+    "phonegap-plugin-local-notification": "^1.0.1",
+    "phonegap-plugin-push": "^2.1.3"
   }
 }

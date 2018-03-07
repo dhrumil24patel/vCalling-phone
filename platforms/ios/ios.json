@@ -67,6 +67,10 @@
             {
               "xml": "<feature name=\"LocalNotifications\"><param name=\"ios-package\" value=\"W3CLocalNotifications\" /></feature>",
               "count": 1
+            },
+            {
+              "xml": "<feature name=\"VoIPPushNotification\"><param name=\"ios-package\" value=\"VoIPPushNotification\" /></feature>",
+              "count": 1
             }
           ]
         }
@@ -188,6 +192,9 @@
       "PACKAGE_NAME": "com.fourdea.vCallingMobile"
     },
     "phonegap-plugin-local-notification": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
+    },
+    "com.nikola-breznjak.voippush": {
       "PACKAGE_NAME": "com.fourdea.vCallingMobile"
     }
   },
@@ -591,6 +598,14 @@
       "clobbers": [
         "Notification"
       ]
+    },
+    {
+      "id": "com.nikola-breznjak.voippush.VoIPPushNotification",
+      "file": "plugins/com.nikola-breznjak.voippush/www/VoIPPushNotification.js",
+      "pluginId": "com.nikola-breznjak.voippush",
+      "clobbers": [
+        "VoIPPushNotification"
+      ]
     }
   ],
   "plugin_metadata": {
@@ -609,6 +624,7 @@
     "cordova-plugin-vibration": "2.1.6",
     "cordova-plugin-whitelist": "1.3.3",
     "phonegap-plugin-push": "2.1.3",
-    "phonegap-plugin-local-notification": "1.0.1"
+    "phonegap-plugin-local-notification": "1.0.1",
+    "com.nikola-breznjak.voippush": "1.0.2"
   }
 }

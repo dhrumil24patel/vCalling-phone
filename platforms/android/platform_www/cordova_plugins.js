@@ -394,6 +394,14 @@ module.exports = [
     "clobbers": [
       "Notification"
     ]
+  },
+  {
+    "id": "com.nikola-breznjak.voippush.VoIPPushNotification",
+    "file": "plugins/com.nikola-breznjak.voippush/www/VoIPPushNotification.js",
+    "pluginId": "com.nikola-breznjak.voippush",
+    "clobbers": [
+      "VoIPPushNotification"
+    ]
   }
 ];
 module.exports.metadata = 
@@ -413,7 +421,8 @@ module.exports.metadata =
   "cordova-plugin-whitelist": "1.3.3",
   "cordova-plugin-background-mode": "0.7.2",
   "phonegap-plugin-push": "2.1.3",
-  "phonegap-plugin-local-notification": "1.0.1"
+  "phonegap-plugin-local-notification": "1.0.1",
+  "com.nikola-breznjak.voippush": "1.0.2"
 };
 // BOTTOM OF METADATA
 });

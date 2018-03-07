@@ -62,6 +62,9 @@
     <feature name="LocalNotifications">
         <param name="ios-package" value="W3CLocalNotifications" />
     </feature>
+    <feature name="VoIPPushNotification">
+        <param name="ios-package" value="VoIPPushNotification" />
+    </feature>
     <name>vCalling Mobile</name>
     <description>
         Hello World sample application that responds to the deviceready event.

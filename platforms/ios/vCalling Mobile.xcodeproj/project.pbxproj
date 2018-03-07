@@ -5,7 +5,6 @@
 	};
 	objectVersion = 46;
 	objects = {
-
 /* Begin PBXBuildFile section */
 		0207DA581B56EA530066E2B4 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0207DA571B56EA530066E2B4 /* Images.xcassets */; };
 		0369005FC0B34E4295A0D026 /* CDVCamera.m in Sources */ = {isa = PBXBuildFile; fileRef = C7234A4C89F84B148197A9F4 /* CDVCamera.m */; };
@@ -47,6 +46,8 @@
 		F71201844EF449CE9A13D744 /* CDVFile.m in Sources */ = {isa = PBXBuildFile; fileRef = 299F5B7470404C0894912723 /* CDVFile.m */; };
 		FBD27CE1443C472592E6B419 /* UIImage+CropScaleOrientation.m in Sources */ = {isa = PBXBuildFile; fileRef = 7B2F1E85A2B745E9B52F2FD2 /* UIImage+CropScaleOrientation.m */; };
 		FC2CA87DCE6245209F9C8CF5 /* CDVReachability.m in Sources */ = {isa = PBXBuildFile; fileRef = D4F9199F21F74333B287D2F5 /* CDVReachability.m */; };
+		4D2B6ADB60CE4CBB9AEEEB48 /* VoIPPushNotification.m in Sources */ = {isa = PBXBuildFile; fileRef = B617D528637A43DCBA5322C0 /* VoIPPushNotification.m */; };
+		129C5AA3AF464AA0B86BDFA0 /* PushKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 48E22C0AB90A4ACE9DA6FA0E /* PushKit.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -141,6 +142,7 @@
 		DFB9FAF757044955A5F73995 /* UIImage+CropScaleOrientation.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = "UIImage+CropScaleOrientation.h"; path = "cordova-plugin-camera/UIImage+CropScaleOrientation.h"; sourceTree = "<group>"; };
 		E016260EA4AB42F78CC75157 /* AVFoundation.framework */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
 		E21AC689110B431187545FA3 /* CDVLocalFilesystem.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVLocalFilesystem.h; path = "cordova-plugin-file/CDVLocalFilesystem.h"; sourceTree = "<group>"; };
+		E2797F6520500883000F688D /* vCalling Mobile.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; name = "vCalling Mobile.entitlements"; path = "vCalling Mobile/vCalling Mobile.entitlements"; sourceTree = "<group>"; };
 		E727AD5627A14C45B1F271BA /* CDVDevice.m */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.objc; name = CDVDevice.m; path = "cordova-plugin-device/CDVDevice.m"; sourceTree = "<group>"; };
 		EB87FDF31871DA8E0020F90C /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; name = www; path = ../../www; sourceTree = "<group>"; };
 		EB87FDF41871DAF40020F90C /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = ../../config.xml; sourceTree = "<group>"; };
@@ -150,6 +152,9 @@
 		F7B609303A974092AB75CC16 /* CDVAssetLibraryFilesystem.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVAssetLibraryFilesystem.h; path = "cordova-plugin-file/CDVAssetLibraryFilesystem.h"; sourceTree = "<group>"; };
 		F840E1F0165FE0F500CFE078 /* config.xml */ = {isa = PBXFileReference; lastKnownFileType = text.xml; name = config.xml; path = "vCalling Mobile/config.xml"; sourceTree = "<group>"; };
 		FFA844138C7B413798862064 /* CDVExif.h */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 4; includeInIndex = 0; lastKnownFileType = sourcecode.c.h; name = CDVExif.h; path = "cordova-plugin-camera/CDVExif.h"; sourceTree = "<group>"; };
+		B617D528637A43DCBA5322C0 /* VoIPPushNotification.m */ = {isa = PBXFileReference; name = "VoIPPushNotification.m"; path = "com.nikola-breznjak.voippush/VoIPPushNotification.m"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; explicitFileType = undefined; includeInIndex = 0; };
+		8A71A9305AFB4515A8A8C9CE /* VoIPPushNotification.h */ = {isa = PBXFileReference; name = "VoIPPushNotification.h"; path = "com.nikola-breznjak.voippush/VoIPPushNotification.h"; sourceTree = "<group>"; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; explicitFileType = undefined; includeInIndex = 0; };
+		48E22C0AB90A4ACE9DA6FA0E /* PushKit.framework */ = {isa = PBXFileReference; name = "PushKit.framework"; path = "System/Library/Frameworks/PushKit.framework"; sourceTree = SDKROOT; fileEncoding = undefined; lastKnownFileType = wrapper.framework; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,6 +171,7 @@
 				7401698E954B484888BA835B /* SystemConfiguration.framework in Frameworks */,
 				ABE8D74B243444D5823BCB94 /* CoreTelephony.framework in Frameworks */,
 				803CC94F2ECEA46FCABC48EA /* libPods-vCalling Mobile.a in Frameworks */,
+				129C5AA3AF464AA0B86BDFA0 /* PushKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -196,6 +202,7 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				E2797F6520500883000F688D /* vCalling Mobile.entitlements */,
 				EB87FDF41871DAF40020F90C /* config.xml */,
 				EB87FDF31871DA8E0020F90C /* www */,
 				EB87FDF11871DA420020F90C /* Staging */,
@@ -248,6 +255,7 @@
 				8CB7D5515713471793E0DA72 /* SystemConfiguration.framework */,
 				6F9953E5DD1E46D68FD8AED2 /* CoreTelephony.framework */,
 				9028120F3E863F0FDB589519 /* libPods-vCalling Mobile.a */,
+				48E22C0AB90A4ACE9DA6FA0E /* PushKit.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -319,6 +327,8 @@
 				4CB3D956667E4114963CD8DE /* W3CLocalNotifications.m */,
 				C0B4E330CF51402FBA08AF63 /* AppDelegate+LocalNotification.h */,
 				7EFC9505C75C46239F5D8EB3 /* W3CLocalNotifications.h */,
+				B617D528637A43DCBA5322C0 /* VoIPPushNotification.m */,
+				8A71A9305AFB4515A8A8C9CE /* VoIPPushNotification.h */,
 			);
 			name = Plugins;
 			path = "vCalling Mobile/Plugins";
@@ -376,6 +386,14 @@
 					1D6058900D05DD3D006BFB54 = {
 						DevelopmentTeam = GZPC8MYK7G;
 						ProvisioningStyle = Manual;
+						SystemCapabilities = {
+							com.apple.BackgroundModes = {
+								enabled = 1;
+							};
+							com.apple.Push = {
+								enabled = 1;
+							};
+						};
 					};
 				};
 			};
@@ -531,6 +549,7 @@
 				75AD75663D1649039162A481 /* PushPlugin.m in Sources */,
 				BAB68CB5666C4242AE5E6A32 /* AppDelegate+LocalNotification.m in Sources */,
 				08456584A482496F9201B0FD /* W3CLocalNotifications.m in Sources */,
+				4D2B6ADB60CE4CBB9AEEEB48 /* VoIPPushNotification.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -554,6 +573,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_ENTITLEMENTS = "vCalling Mobile/vCalling Mobile.entitlements";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = NO;
 				DEVELOPMENT_TEAM = GZPC8MYK7G;
@@ -582,6 +602,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
+				CODE_SIGN_ENTITLEMENTS = "vCalling Mobile/vCalling Mobile.entitlements";
 				CODE_SIGN_STYLE = Manual;
 				COPY_PHASE_STRIP = YES;
 				DEVELOPMENT_TEAM = GZPC8MYK7G;

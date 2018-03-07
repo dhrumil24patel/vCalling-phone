@@ -54,6 +54,9 @@
     },
     "phonegap-plugin-local-notification": {
       "PACKAGE_NAME": "com.fourdea.vCallingMobile"
+    },
+    "com.nikola-breznjak.voippush": {
+      "PACKAGE_NAME": "com.fourdea.vCallingMobile"
     }
   },
   "dependent_plugins": {

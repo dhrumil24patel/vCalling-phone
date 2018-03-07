@@ -115,4 +115,5 @@
         <variable name="FCM_VERSION" value="11.6.2" />
     </plugin>
     <plugin name="phonegap-plugin-local-notification" spec="^1.0.1" />
+    <plugin name="com.nikola-breznjak.voippush" spec="~1.0.2" />
 </widget>

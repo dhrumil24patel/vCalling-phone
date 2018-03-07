@@ -126,5 +126,13 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "com.nikola-breznjak.voippush": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-ios-voip-push"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }
